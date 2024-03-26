@@ -1,0 +1,22 @@
+{
+  "name": "Opium Games",
+  "owner": "CybriaTech",
+  "description": "🕹 Go past the boundaries with Opium. Our service hosts over 100+ unblocked games, includes many selectable proxies, emulators, and tab cloakers. And guess what? All of it is free with no fees at all for anything! 🎮",
+  "version": "1.0.0",
+  "socials": {
+    "page": "https://cybriatech.dev",
+    "twitter": "https://twitter.com/cybriatech_",
+    "tiktok": "https://tiktok.com/@cybriatech",
+    "github": "https://github.com/CybriaTech",
+    "discord": "https://bit.ly/cybriatech"
+  },
+  "logos": {
+    "logo": "/i/l/opium-logo.png",
+    "orig": "/i/l/opium-orig.png"
+  },
+  "favicon": {
+    "16x16": "/i/f/logo-16x16.png",
+    "32x32": "/i/f/logo-32x32.png",
+    "apple-touch-icon": "/i/f/apple-touch-icon.png"
+  }
+}
