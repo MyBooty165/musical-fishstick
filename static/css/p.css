@@ -20,7 +20,7 @@ form {
   margin-top: 20px;
 }
 
-#search-bar {
+input {
   color: #ffffff;
   background-color: #35363E;
   border: none;
@@ -35,11 +35,11 @@ form {
   font-family: 'Roboto', sans-serif;
 }
 
-#search-bar::placeholder {
+input::placeholder {
   color: #ADB0B7;
 }
 
-#search-bar:focus {
+input:focus {
   outline: none;
   border-color: transparent;
 }
@@ -49,4 +49,3 @@ form {
   margin-bottom: 0;
   font-weight: bold;
 }
-
